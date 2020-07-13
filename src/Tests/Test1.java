@@ -4,6 +4,8 @@ public class Test1 {
 
     /*
 
+        https://app.hubspot.com/login
+
         Enter username and password
         Click on login button
         Click on contacts dropdown (on left top)
