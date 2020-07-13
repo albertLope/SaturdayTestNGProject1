@@ -1,0 +1,15 @@
+<suite name = "Suite1" parallel = "methods" thread-count="7">
+    <test name = "test1">
+
+        <!--        Need to make changes in the Base driver-->
+
+        <parameter name = "username" value = "technostudyy@gmail.com" />
+        <parameter name = "password" value = "TechnoStudy123" />
+        <classes>
+            <class name = "Tests.Test1"></class>
+            <class name = "Tests.Test2"></class>
+
+        </classes>
+    </test>
+
+</suite>
